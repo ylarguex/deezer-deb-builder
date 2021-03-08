@@ -2,9 +2,9 @@
 
 Build Deezer packages for Ubuntu/Debian, using resources extracted from Deezer's Windows or macOS packages.
 
-## Prebuilt packages
+## Prebuilt packages for Debian/Ubuntu derivates
 
-See [Releases](https://github.com/davidbailey00/deezer-deb-builder/releases)
+See [Releases](https://github.com/ylarguex/deezer-deb-builder/releases)
 
 ## Requirements
 
